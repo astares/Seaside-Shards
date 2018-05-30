@@ -1,0 +1,1 @@
+Abstract Superclass for Seashat web components

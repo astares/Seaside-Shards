@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 5/30/2018 23:40",
+	"super" : "WAComponent",
+	"category" : "Seshat-Web-UI-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SHTComponent",
+	"type" : "normal"
+}

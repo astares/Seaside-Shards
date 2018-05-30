@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 5/30/2018 23:31",
+	"super" : "WAFileMetadataLibrary",
+	"category" : "Seshat-Web-UI-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SHTFileLibrary",
+	"type" : "normal"
+}
