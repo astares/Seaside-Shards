@@ -2,4 +2,7 @@ private - registration
 register
 	"Registers the class as a seaside application"
 	
-	WAAdmin register: self asApplicationAt: self contextRoot
+	| app |
+	app := WAAdmin register: self asApplicationAt: self contextRoot.
+	app addLibrary: SHTFileLibrary.
+	^app
