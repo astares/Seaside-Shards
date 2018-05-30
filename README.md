@@ -1,5 +1,6 @@
-# Seaside-Shards
-Wrapper for https://designrevision.com/demo/shards/
+# Seshat
+- a web app written in Seaside
+- including a wrapper for https://designrevision.com/demo/shards/
 
 
 # Installation 
