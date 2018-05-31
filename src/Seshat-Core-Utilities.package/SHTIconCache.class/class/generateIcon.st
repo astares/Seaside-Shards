@@ -7,8 +7,8 @@ generateIcon
 	fileName ifNil: [ ^ self ].
 	iconName := UIManager default request: 'Icon name' initialAnswer: 'blank'.
 	iconName ifNil: [ ^ self ].
-	fileName encoder: (ZnCharacterEncoder newForEncoding: 'iso-8859-1'). 
-	base64Contents := (Base64MimeConverter mimeEncode: fileName).
+ 
+	base64Contents := fileName wrappedStream contents base64Encoded.
 	fileName close.
 	contentsMethod := String
 		streamContents: [ :s | 
