@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 5/31/2018 22:38",
+	"super" : "Object",
+	"category" : "Seshat-Web-Runtime-Server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Default"
+	],
+	"instvars" : [ ],
+	"name" : "SHTWebserver",
+	"type" : "normal"
+}

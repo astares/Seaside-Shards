@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 5/31/2018 22:31",
+	"super" : "Object",
+	"category" : "Seshat-Core-Utilities-UUID",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SHTGUIDGenerator",
+	"type" : "normal"
+}

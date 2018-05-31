@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "TorstenBergmann 5/31/2018 22:44",
+	"super" : "Object",
+	"category" : "Seshat-Web-Runtime-Settings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"DefaultPort",
+		"ResourceFolderName"
+	],
+	"instvars" : [ ],
+	"name" : "SHTWebserverSettings",
+	"type" : "normal"
+}

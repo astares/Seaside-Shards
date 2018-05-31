@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "TorstenBergmann 5/30/2018 23:53",
+	"commentStamp" : "TorstenBergmann 5/30/2018 23:41",
 	"super" : "SHTRootComponent",
 	"category" : "Seshat-Web-UI-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "SHTHomepage",
+	"name" : "SHTAdminHome",
 	"type" : "normal"
 }

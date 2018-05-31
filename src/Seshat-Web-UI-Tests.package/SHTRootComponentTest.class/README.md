@@ -1,0 +1,1 @@
+Abstract test class for root components

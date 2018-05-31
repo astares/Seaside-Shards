@@ -1,4 +1,4 @@
 private - accessing
-contextRoot
+entryPointName
 
 	^'admin'
