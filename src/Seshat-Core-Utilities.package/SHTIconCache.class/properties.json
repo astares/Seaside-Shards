@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 5/31/2018 23:06",
+	"super" : "Object",
+	"category" : "Seshat-Core-Utilities-Icons",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IconCache"
+	],
+	"instvars" : [ ],
+	"name" : "SHTIconCache",
+	"type" : "normal"
+}
